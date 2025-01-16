@@ -1,14 +1,6 @@
 # **EVALUASI OPTIMASI ARTIFICIAL BEE COLONY DALAM MEMINIMUMKAN LOSS FUNCTION PADA MULTI LAYER PERCEPTRON**
 
-1. Dede Masita 			121450007
-2. Sella Dianka Fitri 		             121450043
-3. Rizki Adrian Bennovry	 	 121450073
-4. Syifa Firnanda			121450094
-5. Miftahul Huda			121450125
-
-
-
-## Kelompok 13 Deep Learning
+## Kelompok 7 Swarm Intelligence
 
 - Rizki Adrian Bennovry - 121450073 
   
